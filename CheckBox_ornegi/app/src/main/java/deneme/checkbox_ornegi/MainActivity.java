@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             String result="";
             result+=("Seçilen ögeler:");
 
-           
+
 
             if(javaCheckBox.isChecked()){
                 result+="\n"+javaCheckBox.getText();
